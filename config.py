@@ -1,0 +1,2 @@
+GOOGLE_MAPS_KEY = ''
+RESTB_AI_KEY = ''
